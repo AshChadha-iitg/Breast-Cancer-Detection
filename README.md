@@ -33,3 +33,8 @@ This model is for educational purposes only and not a substitute for professiona
 
 ## 🤝 Contributing
 Contributions are welcome! Open an issue or submit a pull request for improvements.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
