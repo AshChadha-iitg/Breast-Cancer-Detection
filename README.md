@@ -29,12 +29,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## ⚠️ Disclaimer
 This model is for educational purposes only and not a substitute for professional medical advice.
 
----
 
-## 🤝 Contributing
-Contributions are welcome! Open an issue or submit a pull request for improvements.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
